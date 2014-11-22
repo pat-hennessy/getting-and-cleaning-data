@@ -11,7 +11,7 @@ The `run_analysis.R` program creates a tidy data set from the "_Human Activity R
 - descriptive labels for the activity indicators (activity_labels.txt)
 
 **Output**
-- a file containing the tidy data set ("TidyData_SubjectActivityGroupMeans.csv")
+- a file containing the tidy data set ("TidyData_SubjectActivityGroupMeans.txt")
     - the output file is written with comma separated values to facilitate display in popular spreadsheet programs
 
 **Processing**
@@ -25,5 +25,5 @@ The `run_analysis.R` program creates a tidy data set from the "_Human Activity R
 - results are written to a file
 
 **Viewing the results in R**
-- data <- read.table("TidyData_SubjectActivityGroupMeans.csv", header = TRUE, sep = ",")
+- data <- read.table("TidyData_SubjectActivityGroupMeans.txt", header = TRUE, sep = ",")
 - View(data)

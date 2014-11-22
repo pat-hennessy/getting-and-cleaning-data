@@ -1,4 +1,4 @@
-### Code Book for the "TidyData_SubjectActivityGroupMeans.csv" Data Set
+### Code Book for the "TidyData_SubjectActivityGroupMeans.txt" Data Set
 ---
 
 This data is a subset of the original data set produced by the study performed by Davide Anguita, et al on "Human Activity Recognition on Smartphones":  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#

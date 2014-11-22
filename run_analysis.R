@@ -73,4 +73,4 @@ data_set <- aggregate(data_set[, 3 : length(data_set)], by = list(Subject = data
 data_set <- data_set[order(as.numeric(data_set$Subject), data_set$Activity),]
 
 # Output
-write.table(data_set, "TidyData_SubjectActivityGroupMeans.csv", row.names = FALSE, sep = ",")
+write.table(data_set, "TidyData_SubjectActivityGroupMeans.txt", row.names = FALSE, sep = ",")
