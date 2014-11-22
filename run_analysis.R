@@ -7,7 +7,7 @@
 #         - labels for the 561 columns of sensor data (features.txt)
 #         - descriptive labels for the activity indicators (activity_labels.txt)
 #
-# Output:  - a file containing the tidy data set (TidyData_SubjectActivityGroupMeans.csv)
+# Output:  - a file containing the tidy data set (TidyData_SubjectActivityGroupMeans.txt)
 #             - the output file is written with comma separated values to facilitate display in spreadsheets
 #
 # Processing:  - test and training data sets are combined
